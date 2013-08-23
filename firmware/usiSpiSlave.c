@@ -3,7 +3,7 @@
 *
 * Atmel Corporation
 *
-* \li File:               spi_via_usi_driver.c
+* \li File_1:               spi_via_usi_driver.c
 * \li Compiler:           IAR EWAAVR 3.10c
 * \li Support mail:       avr@atmel.com
 *
